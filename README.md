@@ -19,13 +19,13 @@ Hi, I am Mahir 👋
 
 
 ## GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ahmet-MahirDEMIRELLI&theme=dark)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Ahmet-MahirDEMIRELLI&show_icons=true&locale=en&theme=dark)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmet-MahirDEMIRELLI&theme=dark&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=a-mahir-d&theme=dark)<br/>
+![](https://github-readme-stats.vercel.app/api?username=a-mahir-d&show_icons=true&locale=en&theme=dark)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=a-mahir-d&theme=dark&include_all_commits=true&count_private=true&layout=compact)
 
 
 <!--
-**Ahmet-MahirDEMIRELLI/ahmet-mahirdemirelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**a-mahir-d/a-mahir-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
