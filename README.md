@@ -1,9 +1,6 @@
 Hi, I am Mahir 👋
 ============================
 
-<!--* 🔭 I’m currently working on a messaging app using .Net and Flutter. -->
-* 📫 How to reach me: [a.mahir.demirelli@gmail.com](mailto:a.mahir.demirelli@gmail.com)
-
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmet-mahir-demirelli) 
 [![Linktree](https://img.shields.io/badge/Linktree-%230077B5.svg?logo=linktree&logoColor=green)](https://linktr.ee/ahmet.mahir.demirelli)
