@@ -6,14 +6,6 @@ Hi, I am Mahir 👋
 [![Linktree](https://img.shields.io/badge/Linktree-%230077B5.svg?logo=linktree&logoColor=green)](https://linktr.ee/ahmet.mahir.demirelli)
 [![Website](https://img.shields.io/badge/Website-%230077B5.svg?logo=globe&logoColor=white)](https://ahmetmahirdemirelli.com)
 
-### Skills 
-<p align="left">
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="36" height="36" alt="ASP.NET Core" /></a>&nbsp;&nbsp;
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="36" height="36" alt="Angular" /></a>&nbsp;&nbsp;
-<a href="https://docs.microsoft.com/en-us/sql/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="36" height="36" alt="MSSQL" /></a>&nbsp;&nbsp;
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" /></a>&nbsp;&nbsp;
-</p>
-
 
 ## GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=a-mahir-d&theme=dark)<br/>
@@ -34,4 +26,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+### Skills 
+<p align="left">
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="36" height="36" alt="ASP.NET Core" /></a>&nbsp;&nbsp;
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="36" height="36" alt="Angular" /></a>&nbsp;&nbsp;
+<a href="https://docs.microsoft.com/en-us/sql/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="36" height="36" alt="MSSQL" /></a>&nbsp;&nbsp;
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" /></a>&nbsp;&nbsp;
+</p>
 -->
